@@ -4,11 +4,12 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="images/basic_website_starter.png" alt="Desktop View" width="300" />
+    <td>
+      <img src="images/basic_website_starter.png" alt="Desktop View" width="300">
     </td>
-    <td align="center">
-      <img src="images/basic_mobile_starter.png" alt="Mobile View" width="300" />
+    <td>
+      <img src="images/basic_mobile_starter.png" alt="Mobile View" height="500">
     </td>
   </tr>
 </table>
+
