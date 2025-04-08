@@ -8,7 +8,7 @@
       <img src="images/basic_website_starter.png" alt="Desktop View" width="300">
     </td>
     <td>
-      <img src="images/basic_mobile_starter.png" alt="Mobile View" height="500">
+      <img src="images/basic_mobile_starter.png" alt="Mobile View" height="900">
     </td>
   </tr>
 </table>
